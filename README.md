@@ -20,6 +20,6 @@ Key Features are:
 - All Toolbox functions can be coupled with and/or processed by other generic ILWIS RS and GIS functionality.
 
 
-# Available Versions
+# Releases
 
 - [v1.7.0](https://github.com/52North/GEONETCast-Toolbox/releases/tag/v1.7.0)

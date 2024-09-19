@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This project is no longer maintained and will not receive any further updates. If you plan to continue using it, please be aware that future security issues will not be addressed.
+
 # GEONETCast-Toolbox
 
 GEONETCast – a global network of communication satellite based data dissemination systems – provides free near real-time environmental and Earth observation data (in-situ, airborne and space based) and derived products to a worldwide user community. It is part of the emerging Global Earth Observation System of Systems (GEOSS), lead by the Group on Earth Observation (GEO) and has become an easy and effective way to receive satellite and environmental data.
